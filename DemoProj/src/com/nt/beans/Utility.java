@@ -11,13 +11,12 @@ public class Utility {
 	
 	public void m1() {
 		System.out.println("Utility.m1() 1234");
-
-	}
-	public void m2() {
-		System.out.println("Utility.m2()");
 	}
 
-	
+	public void m2()
+	{
+		System.out.println("Utility.m2() 4567");
+	}
 	
 	
 }
